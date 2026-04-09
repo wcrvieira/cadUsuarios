@@ -1,0 +1,16 @@
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\bin\Debug\net8.0-windows\Estruturas.exe
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\bin\Debug\net8.0-windows\Estruturas.deps.json
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\bin\Debug\net8.0-windows\Estruturas.runtimeconfig.json
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\bin\Debug\net8.0-windows\Estruturas.dll
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\bin\Debug\net8.0-windows\Estruturas.pdb
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.frmOperadores.resources
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.csproj.GenerateResource.cache
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.AssemblyInfoInputs.cache
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.AssemblyInfo.cs
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.csproj.CoreCompileInputs.cache
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.dll
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\refint\Estruturas.dll
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.pdb
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\Estruturas.genruntimeconfig.cache
+C:\Users\Wagner\source\repos\Estruturas\Estruturas\obj\Debug\net8.0-windows\ref\Estruturas.dll
